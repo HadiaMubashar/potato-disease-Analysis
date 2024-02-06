@@ -1,4 +1,7 @@
 # Potato Disease Analysis
+
+![prediction](https://github.com/HadiaMubashar/potato-disease-Analysis/assets/111630382/ef73e757-3aab-4aed-be76-5a2963b86733)
+
 This project utilizes TensorFlow and Keras to perform potato disease analysis using a Convolutional Neural Network (CNN). The goal is to train a model that can accurately classify images of potatoes into different disease categories. The dataset used for training is sourced from the "PlantVillage" directory.
 
 ## Introduction
